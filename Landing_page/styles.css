@@ -1,0 +1,30 @@
+/* Tipografía para los títulos */
+h1, h2, h3 {
+  font-family: 'Merriweather', serif;
+}
+
+/* Tipografía para los párrafos y textos generales */
+body, p {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.bg-color-800020 {
+  background-color: #800020 !important;
+}   
+
+.bg-color-F3E6D5 {
+  background-color: #F3E6D5 !important;
+}
+
+.bg-color-FFF9F2 {
+  background-color: #FFF9F2 !important;
+}
+
+.bg-color-D45060 {
+  background-color: #D45060 !important;
+}
+
+.borde {
+  border: 5px solid #000000; /* Cambia el color y grosor según tus necesidades */
+  border-radius: 10px; /* Opcional: para bordes redondeados */
+}
